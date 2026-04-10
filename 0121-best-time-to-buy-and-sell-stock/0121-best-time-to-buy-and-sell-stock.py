@@ -1,18 +1,18 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        l, r = 0, 1
+        s, f = 0, 1 # two pointers
         max_profit = 0
 
-        while r < len(prices): # O(n)
-            # Profit to sell on this day 
+        while f < len(prices): # O(n)
+            # Profit to sell on this day
             # update biggest profit
-            if prices[l] < prices[r]:
-                profit = prices[r] - prices[l]
-                max_profit = max(profit, max_profit)
+            if prices[s] < prices[f]:
+                cur_profit = prices[f] - prices[s]
+                max_profit = max(cur_profit, max_profit)
             # Whenever we encounter a lower price, we “forget” all the previous buy days, because they cannot generate any higher profits
             else:
-                l = r
-                
-            r += 1
+                s = f
+            
+            f += 1
 
         return max_profit
