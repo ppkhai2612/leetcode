@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ppkhai2612/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/ppkhai2612/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ppkhai2612/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ppkhai2612/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ppkhai2612/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/ppkhai2612/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
