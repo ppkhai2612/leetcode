@@ -1,20 +1,19 @@
+from collections import Counter
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # O(S+T)
 
-        # check length
+        # Solution 1: Using Counter() obj
+        # if len(s) != len(t):
+        #     return False
+        # return Counter(s) == Counter(t) # Counter retunrs a dict mapping each character to its count
+
+        # Solution 2: Manual dict
         if len(s) != len(t):
             return False
-
-        # count each char in str and add into dict
-        count_s, count_t = {}, {} 
-        for i in range(len(s)):
-            count_s[s[i]] = 1 + count_s.get(s[i], 0)
-            count_t[t[i]] = 1 + count_t.get(t[i], 0)
-        
-        # compare two dicts
-        for c in count_s:
-            if count_s[c] != count_t.get(c, 0):
-                return False
-        
-        return True
+        counts = {}
+        for char in s:
+            counts[char] = counts.get(char, 0) + 1
+        for char in t:
+            counts[char] = counts.get(char, 0) - 1
+        return all(count == 0 for count in counts.values())
