@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/ppkhai2612/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ppkhai2612/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ppkhai2612/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ppkhai2612/leetcode/tree/master/0242-valid-anagram) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ppkhai2612/leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/ppkhai2612/leetcode/tree/master/0146-lru-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ppkhai2612/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ppkhai2612/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ppkhai2612/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
