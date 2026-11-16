@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ppkhai2612/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ppkhai2612/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ppkhai2612/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -22,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppkhai2612/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ppkhai2612/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ppkhai2612/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ppkhai2612/leetcode/tree/master/0242-valid-anagram) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ppkhai2612/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
