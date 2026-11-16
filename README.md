@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ppkhai2612/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ppkhai2612/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ppkhai2612/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ppkhai2612/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ppkhai2612/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ppkhai2612/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ppkhai2612/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ppkhai2612/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ppkhai2612/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ppkhai2612/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
