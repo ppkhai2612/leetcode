@@ -9,7 +9,7 @@ class Solution:
         count = 0
         prefix_sum = 0
         seen: dict[int, int] = defaultdict(int)
-        seen[0] = 1
+        seen[0] = 1 # a prefix sum of 0 has occurred once"
 
         for num in nums:
             prefix_sum += num
