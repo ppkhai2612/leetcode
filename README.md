@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ppkhai2612/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ppkhai2612/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ppkhai2612/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ppkhai2612/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ppkhai2612/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ppkhai2612/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ppkhai2612/leetcode/tree/master/0347-top-k-frequent-elements) |
