@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/ppkhai2612/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ppkhai2612/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ppkhai2612/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ppkhai2612/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ppkhai2612/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ppkhai2612/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ppkhai2612/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ppkhai2612/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ppkhai2612/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ppkhai2612/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ppkhai2612/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ppkhai2612/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ppkhai2612/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ppkhai2612/leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Sliding Window
@@ -97,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ppkhai2612/leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ppkhai2612/leetcode/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ppkhai2612/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -180,4 +184,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ppkhai2612/leetcode/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ppkhai2612/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
